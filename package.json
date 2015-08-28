@@ -7,7 +7,10 @@
     "aws-kcl": "^0.5.0",
     "util": "^0.10.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "async": "^1.4.2",
+    "aws-sdk": "^2.1.48"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
